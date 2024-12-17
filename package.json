@@ -17,7 +17,9 @@
   },
   "homepage": "https://github.com/Bryantellius/nodejs-lab#readme",
   "dependencies": {
+    "isomorphic-fetch": "^3.0.0",
     "request": "^2.88.2",
     "request-promise": "^4.2.5"
-  }
+  },
+  "keywords": []
 }
